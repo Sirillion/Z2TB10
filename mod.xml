@@ -1,0 +1,13 @@
+<mod>
+	<info>
+		<author>Sirillion</author>
+		<name>Z2TB10</name>
+		<description>Z2TB10 is a patch to enable a 10 slot toolbelt for Z2. Requires a 10 slot toolbelt DMT mod to work.</description>
+		<mod_version>18.4.r1</mod_version>
+		<game_version>18.4</game_version>
+		<launcher_version>0.0.0</launcher_version>
+	</info>
+	<dependencies>
+		<dependency>Z2</dependency>
+	</dependencies>
+</mod>

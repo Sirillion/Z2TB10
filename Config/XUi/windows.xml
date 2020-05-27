@@ -1,0 +1,32 @@
+<ProjectZ2>
+
+<!--	// Z2 // 10s Toolbelt -->
+
+		<set xpath="/windows/window[@name='windowToolbelt']//@cols">10</set>
+		<set xpath="/windows/window[@name='windowToolbelt']//@cell_width">80</set>
+
+		<set xpath="/windows/window[@name='HUDLeftStatBars']/sprite[@name='statStaminaToToolbeltA']/@size">35,1</set>
+
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='statStaminaToToolbeltB']/@pos">-422,0</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='statStaminaToToolbeltB']/@size">35,1</set>
+
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltLeftA']/@pos">-415,49</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltLeftB']/@pos">-415,0</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltLeftC']/@pos">-415,-49</set>
+
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltLeftDiamondA1']/@pos">-415,0</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltLeftDiamondA2']/@pos">-415,0</set>
+
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltRightDiamondA1']/@pos">415,0</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltRightDiamondA2']/@pos">415,0</set>
+
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltRightA']/@pos">415,49</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltRightB']/@pos">415,0</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltRightC']/@pos">415,-49</set>
+
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltToStatHungerB']/@size">35,1</set>
+		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltToStatHungerB']/@pos">422,0</set>
+
+		<set xpath="/windows/window[@name='HUDLeftStatBars']/sprite[@name='toolbeltToStatHungerA']/@size">35,1</set>
+
+</ProjectZ2>
