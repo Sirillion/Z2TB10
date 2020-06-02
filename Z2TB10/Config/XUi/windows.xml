@@ -1,6 +1,6 @@
 <ProjectZ2>
 
-<!--	// Z2 // 10s Toolbelt -->
+<!--	// Z2 // 10 Slot Toolbelt Conversion -->
 
 		<set xpath="/windows/window[@name='windowToolbelt']//@cols">10</set>
 		<set xpath="/windows/window[@name='windowToolbelt']//@cell_width">80</set>
@@ -27,6 +27,6 @@
 		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltToStatHungerB']/@size">35,1</set>
 		<set xpath="/windows/window[@name='windowToolbelt']/sprite[@name='toolbeltToStatHungerB']/@pos">422,0</set>
 
-		<set xpath="/windows/window[@name='HUDLeftStatBars']/sprite[@name='toolbeltToStatHungerA']/@size">35,1</set>
+		<set xpath="/windows/window[@name='HUDRightStatBars']/rect/sprite[@name='toolbeltToStatHungerA']/@size">35,1</set>
 
 </ProjectZ2>
