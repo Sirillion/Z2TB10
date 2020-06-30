@@ -5,7 +5,7 @@
 		<Name value="Z2TB10" />
 		<Description value="Z2TB10 is a patch to enable a 10 slot toolbelt for Z2. Requires a 10 slot toolbelt DMT mod to work." />
 		<Author value="Sirillion" />
-		<Version value="18.4.r1" />
-		<Website value="" />
+		<Version value="19.0.Release1" />
+		<Website value="https://community.7daystodie.com/topic/19118-z2-hud-replacement/" />
 	</ModInfo>
 </xml>

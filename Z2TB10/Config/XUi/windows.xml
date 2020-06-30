@@ -1,4 +1,4 @@
-<ProjectZ2>
+<ProjectZ2TB10WINDOWS>
 
 <!--	// Z2 // 10 Slot Toolbelt Conversion -->
 
@@ -29,4 +29,6 @@
 
 		<set xpath="/windows/window[@name='HUDRightStatBars']/rect/sprite[@name='toolbeltToStatHungerA']/@size">35,1</set>
 
-</ProjectZ2>
+		<set xpath="/windows/window[@name='windowToolbelt']/grid[@name='inventory']/@pos">41,-38</set>
+
+</ProjectZ2TB10WINDOWS>
