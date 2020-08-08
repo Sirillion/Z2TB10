@@ -1,4 +1,4 @@
-<ProjectZ2TB10WINDOWS>
+<ProjectZ2TB10_WINDOWS>
 
 <!--	// Z2 // 10 Slot Toolbelt Conversion -->
 
@@ -31,4 +31,11 @@
 
 		<set xpath="/windows/window[@name='windowToolbelt']/grid[@name='inventory']/@pos">41,-38</set>
 
-</ProjectZ2TB10WINDOWS>
+		<set xpath="/windows/window[@name='windowToolbelt']/grid[@name='inventorySlotNumbers']/@pos">84,-1</set>
+
+		<insertAfter xpath="/windows/window[@name='windowToolbelt']/grid[@name='inventorySlotNumbers']/label[@name='slotNumber8']">
+			<label name="slotNumber9" depth="20" pos="0,0" size="20,20" text="9" color="[slotNumberLabelMain]" font_size="16" crispness="Never" effect="outline" effect_distance="1,1" pivot="center" />
+			<label name="slotNumber0" depth="20" pos="0,0" size="20,20" text="0" color="[slotNumberLabelMain]" font_size="16" crispness="Never" effect="outline" effect_distance="1,1" pivot="center" />
+		</insertAfter>
+
+</ProjectZ2TB10_WINDOWS>
